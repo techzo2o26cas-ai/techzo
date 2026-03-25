@@ -1,0 +1,1015 @@
+count,hate_speech_count,offensive_language_count,neither_count,class,tweet,clean_text
+3,1,1,0,1,You are stupid,you are stupid
+3,1,1,0,1,Go and die,go and die
+3,1,1,0,1,I hate you,i hate you
+3,1,1,0,1,You are ugly,you are ugly
+3,1,1,0,1,Shut up idiot,shut up idiot
+3,0,0,1,2,Nice work bro,nice work bro
+3,0,0,1,2,Good morning everyone,good morning everyone
+3,0,0,1,2,Well done team,well done team
+4,0,0,1,2,Thank you so much,thank you so much
+4,0,0,1,2,This post is helpful,this post is helpful
+5,1,1,0,1,😂😂 you look like a monkey,you look like a monkey
+2,0,0,1,2,🔥 amazing performance,amazing performance
+3,1,1,0,1,You are dumb 🤡,you are dumb
+4,0,0,1,2,I like your content ❤️,i like your content
+1,1,1,0,1,idiot,idiot
+2,1,1,0,1,idiot person,idiot person
+3,1,1,0,1,such a idiot,such a idiot
+2,1,1,0,1,total idiot,total idiot
+3,1,1,0,1,you are idiot,you are idiot
+1,1,1,0,1,stupid,stupid
+2,1,1,0,1,stupid person,stupid person
+3,1,1,0,1,such a stupid,such a stupid
+2,1,1,0,1,total stupid,total stupid
+3,1,1,0,1,you are stupid,you are stupid
+1,1,1,0,1,dumb,dumb
+2,1,1,0,1,dumb person,dumb person
+3,1,1,0,1,such a dumb,such a dumb
+2,1,1,0,1,total dumb,total dumb
+3,1,1,0,1,you are dumb,you are dumb
+1,1,1,0,1,moron,moron
+2,1,1,0,1,moron person,moron person
+3,1,1,0,1,such a moron,such a moron
+2,1,1,0,1,total moron,total moron
+3,1,1,0,1,you are moron,you are moron
+1,1,1,0,1,loser,loser
+2,1,1,0,1,loser person,loser person
+3,1,1,0,1,such a loser,such a loser
+2,1,1,0,1,total loser,total loser
+3,1,1,0,1,you are loser,you are loser
+1,1,1,0,1,jerk,jerk
+2,1,1,0,1,jerk person,jerk person
+3,1,1,0,1,such a jerk,such a jerk
+2,1,1,0,1,total jerk,total jerk
+3,1,1,0,1,you are jerk,you are jerk
+1,1,1,0,1,creep,creep
+2,1,1,0,1,creep person,creep person
+3,1,1,0,1,such a creep,such a creep
+2,1,1,0,1,total creep,total creep
+3,1,1,0,1,you are creep,you are creep
+1,1,1,0,1,weirdo,weirdo
+2,1,1,0,1,weirdo person,weirdo person
+3,1,1,0,1,such a weirdo,such a weirdo
+2,1,1,0,1,total weirdo,total weirdo
+3,1,1,0,1,you are weirdo,you are weirdo
+1,1,1,0,1,pathetic,pathetic
+2,1,1,0,1,pathetic person,pathetic person
+3,1,1,0,1,such a pathetic,such a pathetic
+2,1,1,0,1,total pathetic,total pathetic
+3,1,1,0,1,you are pathetic,you are pathetic
+1,1,1,0,1,trash,trash
+2,1,1,0,1,trash person,trash person
+3,1,1,0,1,such a trash,such a trash
+2,1,1,0,1,total trash,total trash
+3,1,1,0,1,you are trash,you are trash
+1,1,1,0,1,garbage,garbage
+2,1,1,0,1,garbage person,garbage person
+3,1,1,0,1,such a garbage,such a garbage
+2,1,1,0,1,total garbage,total garbage
+3,1,1,0,1,you are garbage,you are garbage
+1,1,1,0,1,scam,scam
+2,1,1,0,1,scam person,scam person
+3,1,1,0,1,such a scam,such a scam
+2,1,1,0,1,total scam,total scam
+3,1,1,0,1,you are scam,you are scam
+1,1,1,0,1,fraud,fraud
+2,1,1,0,1,fraud person,fraud person
+3,1,1,0,1,such a fraud,such a fraud
+2,1,1,0,1,total fraud,total fraud
+3,1,1,0,1,you are fraud,you are fraud
+1,1,1,0,1,liar,liar
+2,1,1,0,1,liar person,liar person
+3,1,1,0,1,such a liar,such a liar
+2,1,1,0,1,total liar,total liar
+3,1,1,0,1,you are liar,you are liar
+1,1,1,0,1,cheater,cheater
+2,1,1,0,1,cheater person,cheater person
+3,1,1,0,1,such a cheater,such a cheater
+2,1,1,0,1,total cheater,total cheater
+3,1,1,0,1,you are cheater,you are cheater
+1,1,1,0,1,fake,fake
+2,1,1,0,1,fake person,fake person
+3,1,1,0,1,such a fake,such a fake
+2,1,1,0,1,total fake,total fake
+3,1,1,0,1,you are fake,you are fake
+1,1,1,0,1,annoying,annoying
+2,1,1,0,1,annoying person,annoying person
+3,1,1,0,1,such a annoying,such a annoying
+2,1,1,0,1,total annoying,total annoying
+3,1,1,0,1,you are annoying,you are annoying
+1,1,1,0,1,useless,useless
+2,1,1,0,1,useless person,useless person
+3,1,1,0,1,such a useless,such a useless
+2,1,1,0,1,total useless,total useless
+3,1,1,0,1,you are useless,you are useless
+1,1,1,0,1,worthless,worthless
+2,1,1,0,1,worthless person,worthless person
+3,1,1,0,1,such a worthless,such a worthless
+2,1,1,0,1,total worthless,total worthless
+3,1,1,0,1,you are worthless,you are worthless
+1,1,1,0,1,nonsense,nonsense
+2,1,1,0,1,nonsense person,nonsense person
+3,1,1,0,1,such a nonsense,such a nonsense
+2,1,1,0,1,total nonsense,total nonsense
+3,1,1,0,1,you are nonsense,you are nonsense
+2,1,1,0,1,shut up,shut up
+3,1,1,0,1,shut up person,shut up person
+4,1,1,0,1,such a shut up,such a shut up
+3,1,1,0,1,total shut up,total shut up
+4,1,1,0,1,you are shut up,you are shut up
+2,1,1,0,1,hate you,hate you
+3,1,1,0,1,hate you person,hate you person
+4,1,1,0,1,such a hate you,such a hate you
+3,1,1,0,1,total hate you,total hate you
+4,1,1,0,1,you are hate you,you are hate you
+2,1,1,0,1,go away,go away
+3,1,1,0,1,go away person,go away person
+4,1,1,0,1,such a go away,such a go away
+3,1,1,0,1,total go away,total go away
+4,1,1,0,1,you are go away,you are go away
+3,1,1,0,1,nobody likes you,nobody likes you
+4,1,1,0,1,nobody likes you person,nobody likes you person
+5,1,1,0,1,such a nobody likes you,such a nobody likes you
+4,1,1,0,1,total nobody likes you,total nobody likes you
+5,1,1,0,1,you are nobody likes you,you are nobody likes you
+1,1,1,0,1,disgusting,disgusting
+2,1,1,0,1,disgusting person,disgusting person
+3,1,1,0,1,such a disgusting,such a disgusting
+2,1,1,0,1,total disgusting,total disgusting
+3,1,1,0,1,you are disgusting,you are disgusting
+1,1,1,0,1,gross,gross
+2,1,1,0,1,gross person,gross person
+3,1,1,0,1,such a gross,such a gross
+2,1,1,0,1,total gross,total gross
+3,1,1,0,1,you are gross,you are gross
+1,1,1,0,1,filthy,filthy
+2,1,1,0,1,filthy person,filthy person
+3,1,1,0,1,such a filthy,such a filthy
+2,1,1,0,1,total filthy,total filthy
+3,1,1,0,1,you are filthy,you are filthy
+1,1,1,0,1,lazy,lazy
+2,1,1,0,1,lazy person,lazy person
+3,1,1,0,1,such a lazy,such a lazy
+2,1,1,0,1,total lazy,total lazy
+3,1,1,0,1,you are lazy,you are lazy
+1,1,1,0,1,clown,clown
+2,1,1,0,1,clown person,clown person
+3,1,1,0,1,such a clown,such a clown
+2,1,1,0,1,total clown,total clown
+3,1,1,0,1,you are clown,you are clown
+1,1,1,0,1,fool,fool
+2,1,1,0,1,fool person,fool person
+3,1,1,0,1,such a fool,such a fool
+2,1,1,0,1,total fool,total fool
+3,1,1,0,1,you are fool,you are fool
+1,1,1,0,1,nasty,nasty
+2,1,1,0,1,nasty person,nasty person
+3,1,1,0,1,such a nasty,such a nasty
+2,1,1,0,1,total nasty,total nasty
+3,1,1,0,1,you are nasty,you are nasty
+1,1,1,0,1,toxic,toxic
+2,1,1,0,1,toxic person,toxic person
+3,1,1,0,1,such a toxic,such a toxic
+2,1,1,0,1,total toxic,total toxic
+3,1,1,0,1,you are toxic,you are toxic
+1,1,1,0,1,annoyance,annoyance
+2,1,1,0,1,annoyance person,annoyance person
+3,1,1,0,1,such a annoyance,such a annoyance
+2,1,1,0,1,total annoyance,total annoyance
+3,1,1,0,1,you are annoyance,you are annoyance
+1,1,1,0,1,failure,failure
+2,1,1,0,1,failure person,failure person
+3,1,1,0,1,such a failure,such a failure
+2,1,1,0,1,total failure,total failure
+3,1,1,0,1,you are failure,you are failure
+1,1,1,0,1,mess,mess
+2,1,1,0,1,mess person,mess person
+3,1,1,0,1,such a mess,such a mess
+2,1,1,0,1,total mess,total mess
+3,1,1,0,1,you are mess,you are mess
+1,1,1,0,1,embarrassment,embarrassment
+2,1,1,0,1,embarrassment person,embarrassment person
+3,1,1,0,1,such a embarrassment,such a embarrassment
+2,1,1,0,1,total embarrassment,total embarrassment
+3,1,1,0,1,you are embarrassment,you are embarrassment
+1,1,1,0,1,suck,suck
+2,1,1,0,1,suck person,suck person
+3,1,1,0,1,such a suck,such a suck
+2,1,1,0,1,total suck,total suck
+3,1,1,0,1,you are suck,you are suck
+1,1,1,0,1,terrible,terrible
+2,1,1,0,1,terrible person,terrible person
+3,1,1,0,1,such a terrible,such a terrible
+2,1,1,0,1,total terrible,total terrible
+3,1,1,0,1,you are terrible,you are terrible
+1,1,1,0,1,awful,awful
+2,1,1,0,1,awful person,awful person
+3,1,1,0,1,such a awful,such a awful
+2,1,1,0,1,total awful,total awful
+3,1,1,0,1,you are awful,you are awful
+1,1,1,0,1,horrible,horrible
+2,1,1,0,1,horrible person,horrible person
+3,1,1,0,1,such a horrible,such a horrible
+2,1,1,0,1,total horrible,total horrible
+3,1,1,0,1,you are horrible,you are horrible
+1,1,1,0,1,trashcan,trashcan
+2,1,1,0,1,trashcan person,trashcan person
+3,1,1,0,1,such a trashcan,such a trashcan
+2,1,1,0,1,total trashcan,total trashcan
+3,1,1,0,1,you are trashcan,you are trashcan
+1,1,1,0,1,bug,bug
+2,1,1,0,1,bug person,bug person
+3,1,1,0,1,such a bug,such a bug
+2,1,1,0,1,total bug,total bug
+3,1,1,0,1,you are bug,you are bug
+1,1,1,0,1,leech,leech
+2,1,1,0,1,leech person,leech person
+3,1,1,0,1,such a leech,such a leech
+2,1,1,0,1,total leech,total leech
+3,1,1,0,1,you are leech,you are leech
+1,1,1,0,1,parasite,parasite
+2,1,1,0,1,parasite person,parasite person
+3,1,1,0,1,such a parasite,such a parasite
+2,1,1,0,1,total parasite,total parasite
+3,1,1,0,1,you are parasite,you are parasite
+1,1,1,0,1,snake,snake
+2,1,1,0,1,snake person,snake person
+3,1,1,0,1,such a snake,such a snake
+2,1,1,0,1,total snake,total snake
+3,1,1,0,1,you are snake,you are snake
+1,1,1,0,1,rat,rat
+2,1,1,0,1,rat person,rat person
+3,1,1,0,1,such a rat,such a rat
+2,1,1,0,1,total rat,total rat
+3,1,1,0,1,you are rat,you are rat
+1,1,1,0,1,pig,pig
+2,1,1,0,1,pig person,pig person
+3,1,1,0,1,such a pig,such a pig
+2,1,1,0,1,total pig,total pig
+3,1,1,0,1,you are pig,you are pig
+1,1,1,0,1,donkey,donkey
+2,1,1,0,1,donkey person,donkey person
+3,1,1,0,1,such a donkey,such a donkey
+2,1,1,0,1,total donkey,total donkey
+3,1,1,0,1,you are donkey,you are donkey
+1,1,1,0,1,buffoon,buffoon
+2,1,1,0,1,buffoon person,buffoon person
+3,1,1,0,1,such a buffoon,such a buffoon
+2,1,1,0,1,total buffoon,total buffoon
+3,1,1,0,1,you are buffoon,you are buffoon
+1,1,1,0,1,simpleton,simpleton
+2,1,1,0,1,simpleton person,simpleton person
+3,1,1,0,1,such a simpleton,such a simpleton
+2,1,1,0,1,total simpleton,total simpleton
+3,1,1,0,1,you are simpleton,you are simpleton
+1,1,1,0,1,airhead,airhead
+2,1,1,0,1,airhead person,airhead person
+3,1,1,0,1,such a airhead,such a airhead
+2,1,1,0,1,total airhead,total airhead
+3,1,1,0,1,you are airhead,you are airhead
+1,1,1,0,1,nitwit,nitwit
+2,1,1,0,1,nitwit person,nitwit person
+3,1,1,0,1,such a nitwit,such a nitwit
+2,1,1,0,1,total nitwit,total nitwit
+3,1,1,0,1,you are nitwit,you are nitwit
+1,1,1,0,1,idiot,idiot
+2,1,1,0,1,idiot person,idiot person
+3,1,1,0,1,such a idiot,such a idiot
+2,1,1,0,1,total idiot,total idiot
+3,1,1,0,1,you are idiot,you are idiot
+1,1,1,0,1,stupid,stupid
+2,1,1,0,1,stupid person,stupid person
+3,1,1,0,1,such a stupid,such a stupid
+2,1,1,0,1,total stupid,total stupid
+3,1,1,0,1,you are stupid,you are stupid
+1,1,1,0,1,dumb,dumb
+2,1,1,0,1,dumb person,dumb person
+3,1,1,0,1,such a dumb,such a dumb
+2,1,1,0,1,total dumb,total dumb
+3,1,1,0,1,you are dumb,you are dumb
+1,1,1,0,1,moron,moron
+2,1,1,0,1,moron person,moron person
+3,1,1,0,1,such a moron,such a moron
+2,1,1,0,1,total moron,total moron
+3,1,1,0,1,you are moron,you are moron
+1,1,1,0,1,loser,loser
+2,1,1,0,1,loser person,loser person
+3,1,1,0,1,such a loser,such a loser
+2,1,1,0,1,total loser,total loser
+3,1,1,0,1,you are loser,you are loser
+1,1,1,0,1,jerk,jerk
+2,1,1,0,1,jerk person,jerk person
+3,1,1,0,1,such a jerk,such a jerk
+2,1,1,0,1,total jerk,total jerk
+3,1,1,0,1,you are jerk,you are jerk
+1,1,1,0,1,creep,creep
+2,1,1,0,1,creep person,creep person
+3,1,1,0,1,such a creep,such a creep
+2,1,1,0,1,total creep,total creep
+3,1,1,0,1,you are creep,you are creep
+1,1,1,0,1,weirdo,weirdo
+2,1,1,0,1,weirdo person,weirdo person
+3,1,1,0,1,such a weirdo,such a weirdo
+2,1,1,0,1,total weirdo,total weirdo
+3,1,1,0,1,you are weirdo,you are weirdo
+1,1,1,0,1,pathetic,pathetic
+2,1,1,0,1,pathetic person,pathetic person
+3,1,1,0,1,such a pathetic,such a pathetic
+2,1,1,0,1,total pathetic,total pathetic
+3,1,1,0,1,you are pathetic,you are pathetic
+1,1,1,0,1,trash,trash
+2,1,1,0,1,trash person,trash person
+3,1,1,0,1,such a trash,such a trash
+2,1,1,0,1,total trash,total trash
+3,1,1,0,1,you are trash,you are trash
+1,1,1,0,1,garbage,garbage
+2,1,1,0,1,garbage person,garbage person
+3,1,1,0,1,such a garbage,such a garbage
+2,1,1,0,1,total garbage,total garbage
+3,1,1,0,1,you are garbage,you are garbage
+1,1,1,0,1,scam,scam
+2,1,1,0,1,scam person,scam person
+3,1,1,0,1,such a scam,such a scam
+2,1,1,0,1,total scam,total scam
+3,1,1,0,1,you are scam,you are scam
+1,1,1,0,1,fraud,fraud
+2,1,1,0,1,fraud person,fraud person
+3,1,1,0,1,such a fraud,such a fraud
+2,1,1,0,1,total fraud,total fraud
+3,1,1,0,1,you are fraud,you are fraud
+1,1,1,0,1,liar,liar
+2,1,1,0,1,liar person,liar person
+3,1,1,0,1,such a liar,such a liar
+2,1,1,0,1,total liar,total liar
+3,1,1,0,1,you are liar,you are liar
+1,1,1,0,1,cheater,cheater
+2,1,1,0,1,cheater person,cheater person
+3,1,1,0,1,such a cheater,such a cheater
+2,1,1,0,1,total cheater,total cheater
+3,1,1,0,1,you are cheater,you are cheater
+1,1,1,0,1,fake,fake
+2,1,1,0,1,fake person,fake person
+3,1,1,0,1,such a fake,such a fake
+2,1,1,0,1,total fake,total fake
+3,1,1,0,1,you are fake,you are fake
+1,1,1,0,1,annoying,annoying
+2,1,1,0,1,annoying person,annoying person
+3,1,1,0,1,such a annoying,such a annoying
+2,1,1,0,1,total annoying,total annoying
+3,1,1,0,1,you are annoying,you are annoying
+1,1,1,0,1,useless,useless
+2,1,1,0,1,useless person,useless person
+3,1,1,0,1,such a useless,such a useless
+2,1,1,0,1,total useless,total useless
+3,1,1,0,1,you are useless,you are useless
+1,1,1,0,1,worthless,worthless
+2,1,1,0,1,worthless person,worthless person
+3,1,1,0,1,such a worthless,such a worthless
+2,1,1,0,1,total worthless,total worthless
+3,1,1,0,1,you are worthless,you are worthless
+1,1,1,0,1,nonsense,nonsense
+2,1,1,0,1,nonsense person,nonsense person
+3,1,1,0,1,such a nonsense,such a nonsense
+2,1,1,0,1,total nonsense,total nonsense
+3,1,1,0,1,you are nonsense,you are nonsense
+2,1,1,0,1,shut up,shut up
+3,1,1,0,1,shut up person,shut up person
+4,1,1,0,1,such a shut up,such a shut up
+3,1,1,0,1,total shut up,total shut up
+4,1,1,0,1,you are shut up,you are shut up
+2,1,1,0,1,hate you,hate you
+3,1,1,0,1,hate you person,hate you person
+4,1,1,0,1,such a hate you,such a hate you
+3,1,1,0,1,total hate you,total hate you
+4,1,1,0,1,you are hate you,you are hate you
+2,1,1,0,1,go away,go away
+3,1,1,0,1,go away person,go away person
+4,1,1,0,1,such a go away,such a go away
+3,1,1,0,1,total go away,total go away
+4,1,1,0,1,you are go away,you are go away
+3,1,1,0,1,nobody likes you,nobody likes you
+4,1,1,0,1,nobody likes you person,nobody likes you person
+5,1,1,0,1,such a nobody likes you,such a nobody likes you
+4,1,1,0,1,total nobody likes you,total nobody likes you
+5,1,1,0,1,you are nobody likes you,you are nobody likes you
+1,1,1,0,1,disgusting,disgusting
+2,1,1,0,1,disgusting person,disgusting person
+3,1,1,0,1,such a disgusting,such a disgusting
+2,1,1,0,1,total disgusting,total disgusting
+3,1,1,0,1,you are disgusting,you are disgusting
+1,1,1,0,1,gross,gross
+2,1,1,0,1,gross person,gross person
+3,1,1,0,1,such a gross,such a gross
+2,1,1,0,1,total gross,total gross
+3,1,1,0,1,you are gross,you are gross
+1,1,1,0,1,filthy,filthy
+2,1,1,0,1,filthy person,filthy person
+3,1,1,0,1,such a filthy,such a filthy
+2,1,1,0,1,total filthy,total filthy
+3,1,1,0,1,you are filthy,you are filthy
+1,1,1,0,1,lazy,lazy
+2,1,1,0,1,lazy person,lazy person
+3,1,1,0,1,such a lazy,such a lazy
+2,1,1,0,1,total lazy,total lazy
+3,1,1,0,1,you are lazy,you are lazy
+1,1,1,0,1,clown,clown
+2,1,1,0,1,clown person,clown person
+3,1,1,0,1,such a clown,such a clown
+2,1,1,0,1,total clown,total clown
+3,1,1,0,1,you are clown,you are clown
+1,1,1,0,1,fool,fool
+2,1,1,0,1,fool person,fool person
+3,1,1,0,1,such a fool,such a fool
+2,1,1,0,1,total fool,total fool
+3,1,1,0,1,you are fool,you are fool
+1,1,1,0,1,nasty,nasty
+2,1,1,0,1,nasty person,nasty person
+3,1,1,0,1,such a nasty,such a nasty
+2,1,1,0,1,total nasty,total nasty
+3,1,1,0,1,you are nasty,you are nasty
+1,1,1,0,1,toxic,toxic
+2,1,1,0,1,toxic person,toxic person
+3,1,1,0,1,such a toxic,such a toxic
+2,1,1,0,1,total toxic,total toxic
+3,1,1,0,1,you are toxic,you are toxic
+1,1,1,0,1,annoyance,annoyance
+2,1,1,0,1,annoyance person,annoyance person
+3,1,1,0,1,such a annoyance,such a annoyance
+2,1,1,0,1,total annoyance,total annoyance
+3,1,1,0,1,you are annoyance,you are annoyance
+1,1,1,0,1,failure,failure
+2,1,1,0,1,failure person,failure person
+3,1,1,0,1,such a failure,such a failure
+2,1,1,0,1,total failure,total failure
+3,1,1,0,1,you are failure,you are failure
+1,1,1,0,1,mess,mess
+2,1,1,0,1,mess person,mess person
+3,1,1,0,1,such a mess,such a mess
+2,1,1,0,1,total mess,total mess
+3,1,1,0,1,you are mess,you are mess
+1,1,1,0,1,embarrassment,embarrassment
+2,1,1,0,1,embarrassment person,embarrassment person
+3,1,1,0,1,such a embarrassment,such a embarrassment
+2,1,1,0,1,total embarrassment,total embarrassment
+3,1,1,0,1,you are embarrassment,you are embarrassment
+1,1,1,0,1,suck,suck
+2,1,1,0,1,suck person,suck person
+3,1,1,0,1,such a suck,such a suck
+2,1,1,0,1,total suck,total suck
+3,1,1,0,1,you are suck,you are suck
+1,1,1,0,1,terrible,terrible
+2,1,1,0,1,terrible person,terrible person
+3,1,1,0,1,such a terrible,such a terrible
+2,1,1,0,1,total terrible,total terrible
+3,1,1,0,1,you are terrible,you are terrible
+1,1,1,0,1,awful,awful
+2,1,1,0,1,awful person,awful person
+3,1,1,0,1,such a awful,such a awful
+2,1,1,0,1,total awful,total awful
+3,1,1,0,1,you are awful,you are awful
+1,1,1,0,1,horrible,horrible
+2,1,1,0,1,horrible person,horrible person
+3,1,1,0,1,such a horrible,such a horrible
+2,1,1,0,1,total horrible,total horrible
+3,1,1,0,1,you are horrible,you are horrible
+1,1,1,0,1,trashcan,trashcan
+2,1,1,0,1,trashcan person,trashcan person
+3,1,1,0,1,such a trashcan,such a trashcan
+2,1,1,0,1,total trashcan,total trashcan
+3,1,1,0,1,you are trashcan,you are trashcan
+1,1,1,0,1,bug,bug
+2,1,1,0,1,bug person,bug person
+3,1,1,0,1,such a bug,such a bug
+2,1,1,0,1,total bug,total bug
+3,1,1,0,1,you are bug,you are bug
+1,1,1,0,1,leech,leech
+2,1,1,0,1,leech person,leech person
+3,1,1,0,1,such a leech,such a leech
+2,1,1,0,1,total leech,total leech
+3,1,1,0,1,you are leech,you are leech
+1,1,1,0,1,parasite,parasite
+2,1,1,0,1,parasite person,parasite person
+3,1,1,0,1,such a parasite,such a parasite
+2,1,1,0,1,total parasite,total parasite
+3,1,1,0,1,you are parasite,you are parasite
+1,1,1,0,1,snake,snake
+2,1,1,0,1,snake person,snake person
+3,1,1,0,1,such a snake,such a snake
+2,1,1,0,1,total snake,total snake
+3,1,1,0,1,you are snake,you are snake
+1,1,1,0,1,rat,rat
+2,1,1,0,1,rat person,rat person
+3,1,1,0,1,such a rat,such a rat
+2,1,1,0,1,total rat,total rat
+3,1,1,0,1,you are rat,you are rat
+1,1,1,0,1,pig,pig
+2,1,1,0,1,pig person,pig person
+3,1,1,0,1,such a pig,such a pig
+2,1,1,0,1,total pig,total pig
+3,1,1,0,1,you are pig,you are pig
+1,1,1,0,1,donkey,donkey
+2,1,1,0,1,donkey person,donkey person
+3,1,1,0,1,such a donkey,such a donkey
+2,1,1,0,1,total donkey,total donkey
+3,1,1,0,1,you are donkey,you are donkey
+1,1,1,0,1,buffoon,buffoon
+2,1,1,0,1,buffoon person,buffoon person
+3,1,1,0,1,such a buffoon,such a buffoon
+2,1,1,0,1,total buffoon,total buffoon
+3,1,1,0,1,you are buffoon,you are buffoon
+1,1,1,0,1,simpleton,simpleton
+2,1,1,0,1,simpleton person,simpleton person
+3,1,1,0,1,such a simpleton,such a simpleton
+2,1,1,0,1,total simpleton,total simpleton
+3,1,1,0,1,you are simpleton,you are simpleton
+1,1,1,0,1,airhead,airhead
+2,1,1,0,1,airhead person,airhead person
+3,1,1,0,1,such a airhead,such a airhead
+2,1,1,0,1,total airhead,total airhead
+3,1,1,0,1,you are airhead,you are airhead
+1,1,1,0,1,nitwit,nitwit
+2,1,1,0,1,nitwit person,nitwit person
+3,1,1,0,1,such a nitwit,such a nitwit
+2,1,1,0,1,total nitwit,total nitwit
+3,1,1,0,1,you are nitwit,you are nitwit
+1,1,1,0,1,idiot,idiot
+2,1,1,0,1,idiot person,idiot person
+3,1,1,0,1,such a idiot,such a idiot
+2,1,1,0,1,total idiot,total idiot
+3,1,1,0,1,you are idiot,you are idiot
+1,1,1,0,1,stupid,stupid
+2,1,1,0,1,stupid person,stupid person
+3,1,1,0,1,such a stupid,such a stupid
+2,1,1,0,1,total stupid,total stupid
+3,1,1,0,1,you are stupid,you are stupid
+1,1,1,0,1,dumb,dumb
+2,1,1,0,1,dumb person,dumb person
+3,1,1,0,1,such a dumb,such a dumb
+2,1,1,0,1,total dumb,total dumb
+3,1,1,0,1,you are dumb,you are dumb
+1,1,1,0,1,moron,moron
+2,1,1,0,1,moron person,moron person
+3,1,1,0,1,such a moron,such a moron
+2,1,1,0,1,total moron,total moron
+3,1,1,0,1,you are moron,you are moron
+1,1,1,0,1,loser,loser
+2,1,1,0,1,loser person,loser person
+3,1,1,0,1,such a loser,such a loser
+2,1,1,0,1,total loser,total loser
+3,1,1,0,1,you are loser,you are loser
+1,1,1,0,1,jerk,jerk
+2,1,1,0,1,jerk person,jerk person
+3,1,1,0,1,such a jerk,such a jerk
+2,1,1,0,1,total jerk,total jerk
+3,1,1,0,1,you are jerk,you are jerk
+1,1,1,0,1,creep,creep
+2,1,1,0,1,creep person,creep person
+3,1,1,0,1,such a creep,such a creep
+2,1,1,0,1,total creep,total creep
+3,1,1,0,1,you are creep,you are creep
+1,1,1,0,1,weirdo,weirdo
+2,1,1,0,1,weirdo person,weirdo person
+3,1,1,0,1,such a weirdo,such a weirdo
+2,1,1,0,1,total weirdo,total weirdo
+3,1,1,0,1,you are weirdo,you are weirdo
+1,1,1,0,1,pathetic,pathetic
+2,1,1,0,1,pathetic person,pathetic person
+3,1,1,0,1,such a pathetic,such a pathetic
+2,1,1,0,1,total pathetic,total pathetic
+3,1,1,0,1,you are pathetic,you are pathetic
+1,1,1,0,1,trash,trash
+2,1,1,0,1,trash person,trash person
+3,1,1,0,1,such a trash,such a trash
+2,1,1,0,1,total trash,total trash
+3,1,1,0,1,you are trash,you are trash
+1,1,1,0,1,garbage,garbage
+2,1,1,0,1,garbage person,garbage person
+3,1,1,0,1,such a garbage,such a garbage
+2,1,1,0,1,total garbage,total garbage
+3,1,1,0,1,you are garbage,you are garbage
+1,1,1,0,1,scam,scam
+2,1,1,0,1,scam person,scam person
+3,1,1,0,1,such a scam,such a scam
+2,1,1,0,1,total scam,total scam
+3,1,1,0,1,you are scam,you are scam
+1,1,1,0,1,fraud,fraud
+2,1,1,0,1,fraud person,fraud person
+3,1,1,0,1,such a fraud,such a fraud
+2,1,1,0,1,total fraud,total fraud
+3,1,1,0,1,you are fraud,you are fraud
+1,1,1,0,1,liar,liar
+2,1,1,0,1,liar person,liar person
+3,1,1,0,1,such a liar,such a liar
+2,1,1,0,1,total liar,total liar
+3,1,1,0,1,you are liar,you are liar
+1,1,1,0,1,cheater,cheater
+2,1,1,0,1,cheater person,cheater person
+3,1,1,0,1,such a cheater,such a cheater
+2,1,1,0,1,total cheater,total cheater
+3,1,1,0,1,you are cheater,you are cheater
+1,1,1,0,1,fake,fake
+2,1,1,0,1,fake person,fake person
+3,1,1,0,1,such a fake,such a fake
+2,1,1,0,1,total fake,total fake
+3,1,1,0,1,you are fake,you are fake
+1,1,1,0,1,annoying,annoying
+2,1,1,0,1,annoying person,annoying person
+3,1,1,0,1,such a annoying,such a annoying
+2,1,1,0,1,total annoying,total annoying
+3,1,1,0,1,you are annoying,you are annoying
+1,1,1,0,1,useless,useless
+2,1,1,0,1,useless person,useless person
+3,1,1,0,1,such a useless,such a useless
+2,1,1,0,1,total useless,total useless
+3,1,1,0,1,you are useless,you are useless
+1,1,1,0,1,worthless,worthless
+2,1,1,0,1,worthless person,worthless person
+3,1,1,0,1,such a worthless,such a worthless
+2,1,1,0,1,total worthless,total worthless
+3,1,1,0,1,you are worthless,you are worthless
+1,1,1,0,1,nonsense,nonsense
+2,1,1,0,1,nonsense person,nonsense person
+3,1,1,0,1,such a nonsense,such a nonsense
+2,1,1,0,1,total nonsense,total nonsense
+3,1,1,0,1,you are nonsense,you are nonsense
+2,1,1,0,1,shut up,shut up
+3,1,1,0,1,shut up person,shut up person
+4,1,1,0,1,such a shut up,such a shut up
+3,1,1,0,1,total shut up,total shut up
+4,1,1,0,1,you are shut up,you are shut up
+2,1,1,0,1,hate you,hate you
+3,1,1,0,1,hate you person,hate you person
+4,1,1,0,1,such a hate you,such a hate you
+3,1,1,0,1,total hate you,total hate you
+4,1,1,0,1,you are hate you,you are hate you
+2,1,1,0,1,go away,go away
+3,1,1,0,1,go away person,go away person
+4,1,1,0,1,such a go away,such a go away
+3,1,1,0,1,total go away,total go away
+4,1,1,0,1,you are go away,you are go away
+3,1,1,0,1,nobody likes you,nobody likes you
+4,1,1,0,1,nobody likes you person,nobody likes you person
+5,1,1,0,1,such a nobody likes you,such a nobody likes you
+4,1,1,0,1,total nobody likes you,total nobody likes you
+5,1,1,0,1,you are nobody likes you,you are nobody likes you
+1,1,1,0,1,disgusting,disgusting
+2,1,1,0,1,disgusting person,disgusting person
+3,1,1,0,1,such a disgusting,such a disgusting
+2,1,1,0,1,total disgusting,total disgusting
+3,1,1,0,1,you are disgusting,you are disgusting
+1,1,1,0,1,gross,gross
+2,1,1,0,1,gross person,gross person
+3,1,1,0,1,such a gross,such a gross
+2,1,1,0,1,total gross,total gross
+3,1,1,0,1,you are gross,you are gross
+1,1,1,0,1,filthy,filthy
+2,1,1,0,1,filthy person,filthy person
+3,1,1,0,1,such a filthy,such a filthy
+2,1,1,0,1,total filthy,total filthy
+3,1,1,0,1,you are filthy,you are filthy
+1,1,1,0,1,lazy,lazy
+2,1,1,0,1,lazy person,lazy person
+3,1,1,0,1,such a lazy,such a lazy
+2,1,1,0,1,total lazy,total lazy
+3,1,1,0,1,you are lazy,you are lazy
+1,1,1,0,1,clown,clown
+2,1,1,0,1,clown person,clown person
+3,1,1,0,1,such a clown,such a clown
+2,1,1,0,1,total clown,total clown
+3,1,1,0,1,you are clown,you are clown
+1,1,1,0,1,fool,fool
+2,1,1,0,1,fool person,fool person
+3,1,1,0,1,such a fool,such a fool
+2,1,1,0,1,total fool,total fool
+3,1,1,0,1,you are fool,you are fool
+1,1,1,0,1,nasty,nasty
+2,1,1,0,1,nasty person,nasty person
+3,1,1,0,1,such a nasty,such a nasty
+2,1,1,0,1,total nasty,total nasty
+3,1,1,0,1,you are nasty,you are nasty
+1,1,1,0,1,toxic,toxic
+2,1,1,0,1,toxic person,toxic person
+3,1,1,0,1,such a toxic,such a toxic
+2,1,1,0,1,total toxic,total toxic
+3,1,1,0,1,you are toxic,you are toxic
+1,1,1,0,1,annoyance,annoyance
+2,1,1,0,1,annoyance person,annoyance person
+3,1,1,0,1,such a annoyance,such a annoyance
+2,1,1,0,1,total annoyance,total annoyance
+3,1,1,0,1,you are annoyance,you are annoyance
+1,1,1,0,1,failure,failure
+2,1,1,0,1,failure person,failure person
+3,1,1,0,1,such a failure,such a failure
+2,1,1,0,1,total failure,total failure
+3,1,1,0,1,you are failure,you are failure
+1,1,1,0,1,mess,mess
+2,1,1,0,1,mess person,mess person
+3,1,1,0,1,such a mess,such a mess
+2,1,1,0,1,total mess,total mess
+3,1,1,0,1,you are mess,you are mess
+1,1,1,0,1,embarrassment,embarrassment
+2,1,1,0,1,embarrassment person,embarrassment person
+3,1,1,0,1,such a embarrassment,such a embarrassment
+2,1,1,0,1,total embarrassment,total embarrassment
+3,1,1,0,1,you are embarrassment,you are embarrassment
+1,1,1,0,1,suck,suck
+2,1,1,0,1,suck person,suck person
+3,1,1,0,1,such a suck,such a suck
+2,1,1,0,1,total suck,total suck
+3,1,1,0,1,you are suck,you are suck
+1,1,1,0,1,terrible,terrible
+2,1,1,0,1,terrible person,terrible person
+3,1,1,0,1,such a terrible,such a terrible
+2,1,1,0,1,total terrible,total terrible
+3,1,1,0,1,you are terrible,you are terrible
+1,1,1,0,1,awful,awful
+2,1,1,0,1,awful person,awful person
+3,1,1,0,1,such a awful,such a awful
+2,1,1,0,1,total awful,total awful
+3,1,1,0,1,you are awful,you are awful
+1,1,1,0,1,horrible,horrible
+2,1,1,0,1,horrible person,horrible person
+3,1,1,0,1,such a horrible,such a horrible
+2,1,1,0,1,total horrible,total horrible
+3,1,1,0,1,you are horrible,you are horrible
+1,1,1,0,1,trashcan,trashcan
+2,1,1,0,1,trashcan person,trashcan person
+3,1,1,0,1,such a trashcan,such a trashcan
+2,1,1,0,1,total trashcan,total trashcan
+3,1,1,0,1,you are trashcan,you are trashcan
+1,1,1,0,1,bug,bug
+2,1,1,0,1,bug person,bug person
+3,1,1,0,1,such a bug,such a bug
+2,1,1,0,1,total bug,total bug
+3,1,1,0,1,you are bug,you are bug
+1,1,1,0,1,leech,leech
+2,1,1,0,1,leech person,leech person
+3,1,1,0,1,such a leech,such a leech
+2,1,1,0,1,total leech,total leech
+3,1,1,0,1,you are leech,you are leech
+1,1,1,0,1,parasite,parasite
+2,1,1,0,1,parasite person,parasite person
+3,1,1,0,1,such a parasite,such a parasite
+2,1,1,0,1,total parasite,total parasite
+3,1,1,0,1,you are parasite,you are parasite
+1,1,1,0,1,snake,snake
+2,1,1,0,1,snake person,snake person
+3,1,1,0,1,such a snake,such a snake
+2,1,1,0,1,total snake,total snake
+3,1,1,0,1,you are snake,you are snake
+1,1,1,0,1,rat,rat
+2,1,1,0,1,rat person,rat person
+3,1,1,0,1,such a rat,such a rat
+2,1,1,0,1,total rat,total rat
+3,1,1,0,1,you are rat,you are rat
+1,1,1,0,1,pig,pig
+2,1,1,0,1,pig person,pig person
+3,1,1,0,1,such a pig,such a pig
+2,1,1,0,1,total pig,total pig
+3,1,1,0,1,you are pig,you are pig
+1,1,1,0,1,donkey,donkey
+2,1,1,0,1,donkey person,donkey person
+3,1,1,0,1,such a donkey,such a donkey
+2,1,1,0,1,total donkey,total donkey
+3,1,1,0,1,you are donkey,you are donkey
+1,1,1,0,1,buffoon,buffoon
+2,1,1,0,1,buffoon person,buffoon person
+3,1,1,0,1,such a buffoon,such a buffoon
+2,1,1,0,1,total buffoon,total buffoon
+3,1,1,0,1,you are buffoon,you are buffoon
+1,1,1,0,1,simpleton,simpleton
+2,1,1,0,1,simpleton person,simpleton person
+3,1,1,0,1,such a simpleton,such a simpleton
+2,1,1,0,1,total simpleton,total simpleton
+3,1,1,0,1,you are simpleton,you are simpleton
+1,1,1,0,1,airhead,airhead
+2,1,1,0,1,airhead person,airhead person
+3,1,1,0,1,such a airhead,such a airhead
+2,1,1,0,1,total airhead,total airhead
+3,1,1,0,1,you are airhead,you are airhead
+1,1,1,0,1,nitwit,nitwit
+2,1,1,0,1,nitwit person,nitwit person
+3,1,1,0,1,such a nitwit,such a nitwit
+2,1,1,0,1,total nitwit,total nitwit
+3,1,1,0,1,you are nitwit,you are nitwit
+1,1,1,0,1,idiot,idiot
+2,1,1,0,1,idiot person,idiot person
+3,1,1,0,1,such a idiot,such a idiot
+2,1,1,0,1,total idiot,total idiot
+3,1,1,0,1,you are idiot,you are idiot
+1,1,1,0,1,stupid,stupid
+2,1,1,0,1,stupid person,stupid person
+3,1,1,0,1,such a stupid,such a stupid
+2,1,1,0,1,total stupid,total stupid
+3,1,1,0,1,you are stupid,you are stupid
+1,1,1,0,1,dumb,dumb
+2,1,1,0,1,dumb person,dumb person
+3,1,1,0,1,such a dumb,such a dumb
+2,1,1,0,1,total dumb,total dumb
+3,1,1,0,1,you are dumb,you are dumb
+1,1,1,0,1,moron,moron
+2,1,1,0,1,moron person,moron person
+3,1,1,0,1,such a moron,such a moron
+2,1,1,0,1,total moron,total moron
+3,1,1,0,1,you are moron,you are moron
+1,1,1,0,1,loser,loser
+2,1,1,0,1,loser person,loser person
+3,1,1,0,1,such a loser,such a loser
+2,1,1,0,1,total loser,total loser
+3,1,1,0,1,you are loser,you are loser
+1,1,1,0,1,jerk,jerk
+2,1,1,0,1,jerk person,jerk person
+3,1,1,0,1,such a jerk,such a jerk
+2,1,1,0,1,total jerk,total jerk
+3,1,1,0,1,you are jerk,you are jerk
+1,1,1,0,1,creep,creep
+2,1,1,0,1,creep person,creep person
+3,1,1,0,1,such a creep,such a creep
+2,1,1,0,1,total creep,total creep
+3,1,1,0,1,you are creep,you are creep
+1,1,1,0,1,weirdo,weirdo
+2,1,1,0,1,weirdo person,weirdo person
+3,1,1,0,1,such a weirdo,such a weirdo
+2,1,1,0,1,total weirdo,total weirdo
+3,1,1,0,1,you are weirdo,you are weirdo
+1,1,1,0,1,pathetic,pathetic
+2,1,1,0,1,pathetic person,pathetic person
+3,1,1,0,1,such a pathetic,such a pathetic
+2,1,1,0,1,total pathetic,total pathetic
+3,1,1,0,1,you are pathetic,you are pathetic
+1,1,1,0,1,trash,trash
+2,1,1,0,1,trash person,trash person
+3,1,1,0,1,such a trash,such a trash
+2,1,1,0,1,total trash,total trash
+3,1,1,0,1,you are trash,you are trash
+1,1,1,0,1,garbage,garbage
+2,1,1,0,1,garbage person,garbage person
+3,1,1,0,1,such a garbage,such a garbage
+2,1,1,0,1,total garbage,total garbage
+3,1,1,0,1,you are garbage,you are garbage
+1,1,1,0,1,scam,scam
+2,1,1,0,1,scam person,scam person
+3,1,1,0,1,such a scam,such a scam
+2,1,1,0,1,total scam,total scam
+3,1,1,0,1,you are scam,you are scam
+1,1,1,0,1,fraud,fraud
+2,1,1,0,1,fraud person,fraud person
+3,1,1,0,1,such a fraud,such a fraud
+2,1,1,0,1,total fraud,total fraud
+3,1,1,0,1,you are fraud,you are fraud
+1,1,1,0,1,liar,liar
+2,1,1,0,1,liar person,liar person
+3,1,1,0,1,such a liar,such a liar
+2,1,1,0,1,total liar,total liar
+3,1,1,0,1,you are liar,you are liar
+1,1,1,0,1,cheater,cheater
+2,1,1,0,1,cheater person,cheater person
+3,1,1,0,1,such a cheater,such a cheater
+2,1,1,0,1,total cheater,total cheater
+3,1,1,0,1,you are cheater,you are cheater
+1,1,1,0,1,fake,fake
+2,1,1,0,1,fake person,fake person
+3,1,1,0,1,such a fake,such a fake
+2,1,1,0,1,total fake,total fake
+3,1,1,0,1,you are fake,you are fake
+1,1,1,0,1,annoying,annoying
+2,1,1,0,1,annoying person,annoying person
+3,1,1,0,1,such a annoying,such a annoying
+2,1,1,0,1,total annoying,total annoying
+3,1,1,0,1,you are annoying,you are annoying
+1,1,1,0,1,useless,useless
+2,1,1,0,1,useless person,useless person
+3,1,1,0,1,such a useless,such a useless
+2,1,1,0,1,total useless,total useless
+3,1,1,0,1,you are useless,you are useless
+1,1,1,0,1,worthless,worthless
+2,1,1,0,1,worthless person,worthless person
+3,1,1,0,1,such a worthless,such a worthless
+2,1,1,0,1,total worthless,total worthless
+3,1,1,0,1,you are worthless,you are worthless
+1,1,1,0,1,nonsense,nonsense
+2,1,1,0,1,nonsense person,nonsense person
+3,1,1,0,1,such a nonsense,such a nonsense
+2,1,1,0,1,total nonsense,total nonsense
+3,1,1,0,1,you are nonsense,you are nonsense
+2,1,1,0,1,shut up,shut up
+3,1,1,0,1,shut up person,shut up person
+4,1,1,0,1,such a shut up,such a shut up
+3,1,1,0,1,total shut up,total shut up
+4,1,1,0,1,you are shut up,you are shut up
+2,1,1,0,1,hate you,hate you
+3,1,1,0,1,hate you person,hate you person
+4,1,1,0,1,such a hate you,such a hate you
+3,1,1,0,1,total hate you,total hate you
+4,1,1,0,1,you are hate you,you are hate you
+2,1,1,0,1,go away,go away
+3,1,1,0,1,go away person,go away person
+4,1,1,0,1,such a go away,such a go away
+3,1,1,0,1,total go away,total go away
+4,1,1,0,1,you are go away,you are go away
+3,1,1,0,1,nobody likes you,nobody likes you
+4,1,1,0,1,nobody likes you person,nobody likes you person
+5,1,1,0,1,such a nobody likes you,such a nobody likes you
+4,1,1,0,1,total nobody likes you,total nobody likes you
+5,1,1,0,1,you are nobody likes you,you are nobody likes you
+1,1,1,0,1,disgusting,disgusting
+2,1,1,0,1,disgusting person,disgusting person
+3,1,1,0,1,such a disgusting,such a disgusting
+2,1,1,0,1,total disgusting,total disgusting
+3,1,1,0,1,you are disgusting,you are disgusting
+1,1,1,0,1,gross,gross
+2,1,1,0,1,gross person,gross person
+3,1,1,0,1,such a gross,such a gross
+2,1,1,0,1,total gross,total gross
+3,1,1,0,1,you are gross,you are gross
+1,1,1,0,1,filthy,filthy
+2,1,1,0,1,filthy person,filthy person
+3,1,1,0,1,such a filthy,such a filthy
+2,1,1,0,1,total filthy,total filthy
+3,1,1,0,1,you are filthy,you are filthy
+1,1,1,0,1,lazy,lazy
+2,1,1,0,1,lazy person,lazy person
+3,1,1,0,1,such a lazy,such a lazy
+2,1,1,0,1,total lazy,total lazy
+3,1,1,0,1,you are lazy,you are lazy
+1,1,1,0,1,clown,clown
+2,1,1,0,1,clown person,clown person
+3,1,1,0,1,such a clown,such a clown
+2,1,1,0,1,total clown,total clown
+3,1,1,0,1,you are clown,you are clown
+1,1,1,0,1,fool,fool
+2,1,1,0,1,fool person,fool person
+3,1,1,0,1,such a fool,such a fool
+2,1,1,0,1,total fool,total fool
+3,1,1,0,1,you are fool,you are fool
+1,1,1,0,1,nasty,nasty
+2,1,1,0,1,nasty person,nasty person
+3,1,1,0,1,such a nasty,such a nasty
+2,1,1,0,1,total nasty,total nasty
+3,1,1,0,1,you are nasty,you are nasty
+1,1,1,0,1,toxic,toxic
+2,1,1,0,1,toxic person,toxic person
+3,1,1,0,1,such a toxic,such a toxic
+2,1,1,0,1,total toxic,total toxic
+3,1,1,0,1,you are toxic,you are toxic
+1,1,1,0,1,annoyance,annoyance
+2,1,1,0,1,annoyance person,annoyance person
+3,1,1,0,1,such a annoyance,such a annoyance
+2,1,1,0,1,total annoyance,total annoyance
+3,1,1,0,1,you are annoyance,you are annoyance
+1,1,1,0,1,failure,failure
+2,1,1,0,1,failure person,failure person
+3,1,1,0,1,such a failure,such a failure
+2,1,1,0,1,total failure,total failure
+3,1,1,0,1,you are failure,you are failure
+1,1,1,0,1,mess,mess
+2,1,1,0,1,mess person,mess person
+3,1,1,0,1,such a mess,such a mess
+2,1,1,0,1,total mess,total mess
+3,1,1,0,1,you are mess,you are mess
+1,1,1,0,1,embarrassment,embarrassment
+2,1,1,0,1,embarrassment person,embarrassment person
+3,1,1,0,1,such a embarrassment,such a embarrassment
+2,1,1,0,1,total embarrassment,total embarrassment
+3,1,1,0,1,you are embarrassment,you are embarrassment
+1,1,1,0,1,suck,suck
+2,1,1,0,1,suck person,suck person
+3,1,1,0,1,such a suck,such a suck
+2,1,1,0,1,total suck,total suck
+3,1,1,0,1,you are suck,you are suck
+1,1,1,0,1,terrible,terrible
+2,1,1,0,1,terrible person,terrible person
+3,1,1,0,1,such a terrible,such a terrible
+2,1,1,0,1,total terrible,total terrible
+3,1,1,0,1,you are terrible,you are terrible
+1,1,1,0,1,awful,awful
+2,1,1,0,1,awful person,awful person
+3,1,1,0,1,such a awful,such a awful
+2,1,1,0,1,total awful,total awful
+3,1,1,0,1,you are awful,you are awful
+1,1,1,0,1,horrible,horrible
+2,1,1,0,1,horrible person,horrible person
+3,1,1,0,1,such a horrible,such a horrible
+2,1,1,0,1,total horrible,total horrible
+3,1,1,0,1,you are horrible,you are horrible
+1,1,1,0,1,trashcan,trashcan
+2,1,1,0,1,trashcan person,trashcan person
+3,1,1,0,1,such a trashcan,such a trashcan
+2,1,1,0,1,total trashcan,total trashcan
+3,1,1,0,1,you are trashcan,you are trashcan
+1,1,1,0,1,bug,bug
+2,1,1,0,1,bug person,bug person
+3,1,1,0,1,such a bug,such a bug
+2,1,1,0,1,total bug,total bug
+3,1,1,0,1,you are bug,you are bug
+1,1,1,0,1,leech,leech
+2,1,1,0,1,leech person,leech person
+3,1,1,0,1,such a leech,such a leech
+2,1,1,0,1,total leech,total leech
+3,1,1,0,1,you are leech,you are leech
+1,1,1,0,1,parasite,parasite
+2,1,1,0,1,parasite person,parasite person
+3,1,1,0,1,such a parasite,such a parasite
+2,1,1,0,1,total parasite,total parasite
+3,1,1,0,1,you are parasite,you are parasite
